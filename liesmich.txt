@@ -1,0 +1,45 @@
+Intypo
+Internationale Typografie
+ein WordPress-Plugin von Darius Dunker
+http://dossier.dunker.de/intypo/
+
+Version 0.9.2a: Bugfixes von Johannes Freudendahl
+
+Dieses Plugin fuer WordPress ersetzt die Art der Anfuehrungszeichen
+durch jene, die in anderen Sprachen verwendet werden, wahlweise auch mit
+spitzen Guillemet-Anfuehrungszeichen.
+
+Weitere Informationen unter http://dossier.dunker.de/intypo/
+Unter http://dossier.dunker.de/kategorie/intypo/ gibt es die neuesten Hinweise.
+
+Mehr zu WordPress unter http://wordpress.org und http://wordpress.de
+WordPress-Uebersetzungen unter http://codex.wordpress.org/WordPress_in_Your_Language
+
+INSTALLATION
+1. Kopiere das Intypo-Verzeichnis ins Plugins-Verzeichnis, sodass vorliegen:
+wp-content/plugins/intypo/intypo.php
+wp-content/plugins/intypo/languages.php
+2. Aktiviere Intypo auf der WordPress-Seite zur Plugin-Verwaltung.
+3. Waehle die gewuenschte Art von Anfuehrungszeichen unter Optionen/Intypo.
+
+UPGRADE VON VERSIONEN VOR INTYPO 0.9.0
+Loesche die alte Datei intypo.php aus deinem Plugins-Verzeichnis und folge der
+obigen Installationsanleitung.
+
+KOMPATIBILITAET
+Intypo 0.9.2a getestet mit WP 3.4
+Intypo 0.9.2 getestet mit WP 2.9 und 3.0.1
+Intypo 0.9.0 mit WordPress 2.1.1 getestet.
+Intypo 0.6.1 erfolgreich getestet mit WordPress 1.5 und 2.0
+Intypo 0.6.2 und 0.6.3 erfolgreich getestet mit WP 2.0.1
+Vermutlich auch noch kompatibel zu aelteren WordPress-Versionen.
+
+VERSIONSGESCHICHTE
+0.9.2a Bugfixes von Johannes Freudendahl
+0.9.2 Bildbeschriftungsproblem gelöst (Danke, Marcel Pauly)
+0.9.0 Intypo ersetzt Textile-Funktion, verbesserte Erkennung usw.
+0.6.3 Neue Adresse der Plugin-Homepage angegeben. Keine neuen Funktionen.
+0.6.2 Filterung der Kommentare eingeschlossen, vier neue Stile hinzugefuegt.
+0.6.0 Konfigurierbare Optionen fuer diverse Sprachen.
+0.5.3 Filterung von Titel und Auszug eingeschlossen.
+0.5   Erste Veroeffentlichung.
